@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: chromiq
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /health
+    envVars:
+      - key: RATE_LIMIT
+        value: "120"

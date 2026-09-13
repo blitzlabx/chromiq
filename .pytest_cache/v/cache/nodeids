@@ -1,0 +1,13 @@
+[
+  "tests/test_api.py::test_contrast",
+  "tests/test_api.py::test_convert",
+  "tests/test_api.py::test_extract",
+  "tests/test_api.py::test_gradient",
+  "tests/test_api.py::test_health",
+  "tests/test_api.py::test_invalid",
+  "tests/test_color.py::test_contrast",
+  "tests/test_color.py::test_hex_and_formats",
+  "tests/test_color.py::test_mix_adjust",
+  "tests/test_color.py::test_palettes",
+  "tests/test_color.py::test_rgb_hsl_roundtrip"
+]
